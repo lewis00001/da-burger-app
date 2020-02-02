@@ -1,0 +1,57 @@
+html {
+    background-color: gray;
+}
+
+header>h1 {
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    background-color: lightgray;
+}
+
+body {
+    padding: 30px 60px 0 60px;
+    background-color: white;
+    font-family: 'Exo', sans-serif;
+    max-width: 700px;
+    min-width: 514px;
+    height: 1000px;
+    margin: 0 auto 0 auto;
+}
+
+.create-form {
+    width: 290px;
+    margin: 20px auto 30px auto;
+}
+
+.burger {
+    padding: 5px 0 5px 0;
+}
+
+.eat-btn {
+    width: 60px;
+}
+
+#newBurger {
+    width: 100%;
+}
+
+#burger {
+    width: 70%;
+}
+
+#submit-btn {
+    width: 28%;
+}
+
+#burgers {
+    width: 50%;
+    float: left;
+    padding: 0 15px 0 15px;
+    border-right: 1px solid gray;
+}
+
+#burgers-devoured {
+    float: left;
+    padding: 0 15px 0 15px;
+}
